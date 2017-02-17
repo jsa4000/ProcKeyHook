@@ -1,4 +1,4 @@
-# ProcKeyHook
+# Key Press Hook for Microsoft Windows
 
 - This is a tool developed in **Visual Studio 2008** and it runs on Microsoft Windows. 
 - It **hooks** the **keys pressed** reading directly the events from the **OS** routines.
